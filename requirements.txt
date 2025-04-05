@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pdfplumber
+python-docx
+openpyxl
+python-pptx
+requests
+langchain
+huggingface_hub
+langchain_huggingface
